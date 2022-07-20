@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PracticeKotlin20</string>
+    <string name="github_login">Github Login</string>
+    <string name="search">검색</string>
+    <string name="input_search_text">검색어를 입력해주세요.</string>
+    <string name="empty_history_text">즐겨찾기한 레포지토리가 없습니다.</string>
+</resources>
